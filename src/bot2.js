@@ -15,8 +15,8 @@ Thanks to @Alfathdirk @TCR_TEAM\n\
 | Change it to your authToken & your certificate
 */
 const auth = {
- 	authToken: 'ElRWPRiDtfZwsL4t58qd.ECY3SwYO52mGYgzY8n7I7q.vnK37iutS8TUjGNo91EWyI969VxviH3+5Bt9JmOYpjs=',
- 	certificate: '75aa3029c22aaea9656ec43caa37ae8e32ac451507ff1f26e960c03ffddc8b9a'
+ 	authToken: 'Emoi8J49sC4bdaflGFDe.YQjwMLec1uFEpXYf6zs9tG.bT4EBy6hjS3DliHPNKAQbRLhb2qNpfeqm2t8/6VlJNo=',
+ 	certificate: '9f69cbc48b8f14062de6e7b1fc0ec60fb84431ebfb0e4292fe929d91fba2c8ad'
 }
 
 //let client =  new LineConnect();
